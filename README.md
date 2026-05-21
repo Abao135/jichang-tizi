@@ -982,8 +982,8 @@
 * **总成本**：约 ¥16/月，买个双保险。
 
 #### 2. 稳定办公/刷剧组（适合追求丝滑体验）
-* **主力 A**：**[宝可梦加速器](https://go.clashshome.com/baokemeng)** (¥19.9/月，IEPL 专线保稳)
-* **主力 B**：**[悦通](https://go.clashshome.com/yuetong)** (极高性价比)
+* **主力 A**：**[特朗普云](https://go.clashshome.com/trumpyun)** (极高性价比，晚高峰秒开8K)
+* **主力 B**：**[宝可梦加速器](https://go.clashshome.com/baokemeng)** (¥19.9/月，IEPL 专线保稳)
 * **紧急备用**：**[Mitce](https://go.clashshome.com/mitcejc)低价/[魔戒](https://go.clashshome.com/mojieapp) 不限时包** (一次性买断，备用首选)
 * **总成本**：约 ¥40/月，晚高峰 4K 随意拖动。
 
