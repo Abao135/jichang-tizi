@@ -4,7 +4,7 @@
 > 2. 剔除劣质：已剔除所有 TG 群不回消息、口碑不稳的“跑路型”机场。仅保留响应快、出口带宽充足的优质服务商。  
 > 3. 2+1 策略：独家分享 2 个主力 + 1 个备用的不限时流量包组合方案。狡兔三窟，过去一年实现 0 断网记录，帮助你根据预算精准选择最合适的便宜稳定机场。  
 > 4. 优惠码：及时更新。
-> 5. **最后更新**：2026-06-04 | 每周检查节点状态，随时更新最新动态。欢迎 Star 收藏防失联。[点击加入TG频道](https://t.me/best_jichang)
+> 5. **最后更新**：2026-06-11 | 每周检查节点状态，随时更新最新动态。欢迎 Star 收藏防失联。[点击加入TG频道](https://t.me/best_jichang)
 
 ---
 
@@ -67,18 +67,18 @@
   - [1. 红杏云](#hongxingyun)
   - [2. 特朗普云](#trumpyun)
   - [3. 快雷go](#kuaileigo)
-  - [4. 宝可梦加速器](#baokemeng)
-  - [5. 万达云](#wandayun)
-  - [6. 悦通](#yuetong)
+  - [4. 悦通](#yuetong)
+  - [5. 宝可梦加速器](#baokemeng)
+  - [6. 万达云](#wandayun)
 - [二、备用机场（按需选择）](#backup)
   - [1. Mitce](#mitce)
-  - [2. SSRDOG](#ssrdog)
-  - [3. 乌龟加速](#wuguijiasu)
-  - [4. 飞鸟云](#feiniaoyun)
-  - [5. M78星云](#m78)
-  - [6. 糖果云](#tangguo)
-  - [7. 渔云Cloufisher](#yuyun)
-  - [8. XSUS](#xsus)
+  - [2. 奈云](#naiyun)
+  - [3. SSRDOG](#ssrdog)
+  - [4. 乌龟加速](#wuguijiasu)
+  - [5. 飞鸟云](#feiniaoyun)
+  - [6. M78星云](#m78)
+  - [7. 糖果云](#tangguo)
+  - [8. 渔云Cloufisher](#yuyun)
   - [9. 魔戒](#mojie)
 - [三、优惠码汇总](#unlimited)
 - [四、选择策略](#choose)
@@ -98,7 +98,7 @@
 ### 1. 红杏云 - 直连 + 家宽 + 原生 综合体验最强
 
 **官网入口**：
-- [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxingyun.app/?code=bUIxQadH)
+- [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxing24.cc/web/#/login?code=bUIxQadH)
 
 **优惠码**：`ABING888`（全场 8 折，一个账户可用两次）
 
@@ -186,7 +186,7 @@
 - 2025 年新开机场，运营时间较短
 - 不支持一键客户端，需自行配置订阅
 
-**我的使用体验**：机场新星，近期严打下晚高峰速度依然很快。节点高可用率，速度极快，晚高峰非常稳，性价比极高，适合追求高速且预算有限的用户。
+**我的使用体验**：小众机场，近期严打下晚高峰速度依然很快。73 个节点全部可用，中转线路为主，性价比极高，适合追求高速且预算有限的用户。
 
 **推荐套餐**：
 
@@ -210,7 +210,7 @@
 ### 3. 快雷go - IEPL专线 + 全流媒体解锁 + 电信方向优化
 
 **官网入口**：
-- [快雷go官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuaileigo.top/register?code=n5YVQYr2)
+- [快雷go官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuailei.vip/register?code=n5YVQYr2)
 
 **优惠码**：`kuailei888`
 
@@ -219,9 +219,9 @@
 |------|------|
 | 入口与过境 | 全部境外 |
 | 节点地区 | 香港、新加坡、台湾、英国、德国等 |
-| 落地 ISP | MICROSOFT、GoMami Networks、Chunghwa Telecom Co., Ltd.、DMIT Cloud Services、Google LLC、GTT Communications Inc、GTT Americas |
-| 节点数量 | 50+ |
-| 协议 | ANYTLS×42 / VLESS×7 / SS×5 |
+| 落地 ISP | Bage Cloud LLC |
+| 节点数量 | 40+ |
+| 协议 | SS + VLESS |
 | 线路类型 | IEPL专线+ 直连 |
 | 设备限制 | 2 - 100 台（按套餐） |
 | AI流媒体解锁 | TikTok / 推特 / Ins / YouTube / Netflix / Disney+ / ChatGPT |
@@ -231,7 +231,7 @@
 | 一键客户端 | Windows / Android / iOS / macOS |
 
 **核心优势**：
-- ✅ IEPL专线+直连，98% 可用率，平均延迟 85ms
+- ✅ IEPL专线为主，98% 可用率，平均延迟 85ms
 - ✅ 全流媒体解锁（TikTok/Netflix/Disney+/ChatGPT）
 - ✅ 不限时流量包可选（300G ¥99 / 1000G ¥199），长期备用首选
 - ✅ 已上线电信方向专项优化，电信用户连接稳定性与速度明显提升
@@ -267,8 +267,68 @@
 
 ---
 
+<span id="yuetong"></span>
+### 4. 悦通 - 多档位套餐 + 不限时大流量包 + 高性价比
+**官网入口**：
+- [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)
+
+**优惠码**：`YUE520`
+
+> **注意**：晚高峰略卡，各地区和网络有所不一样，建议先弄一个月试试。或者十几块钱买个500G不限时作为备用，很划算。对稳定性有要求的建议买25/月及以上的套餐有专属节点。
+
+**机场档案**
+| 项目 | 详情 |
+|------|------|
+| 开业时间 | 2025年中 |
+| 老板肉身 | 境外 |
+| 入口与过境 | 国内、多个境外 |
+| 节点地区 | 台湾、日本、韩国、新加坡、美国、加拿大、英国、德国、越南等 40+ 国家及地区 |
+| 落地 ISP | Vietnam Posts（越南电信）、Chunghwa Telecom（台湾HiNet）、Leaseweb、Daou Tech（韩国）、Light Node 等多家 |
+| 节点数量 | 140+（可用率 62%） |
+| 协议 | VLESS + Hysteria2 |
+| 设备限制 | 5-20，Max/Infinity 套餐物理隔离 |
+| AI流媒体解锁 | 全解锁 |
+| 审计情况 | 无审计 |
+| 付款方式 | 支付宝 / 微信 |
+| TG 频道 | [点击加入](https://t.me/yue_to) |
+| 一键客户端 | Windows / macOS / Android / Linux |
+
+**核心优势**：
+- ✅ ¥12.9/月起，多档位套餐从轻量到企业级全覆盖
+- ✅ 不限时流量包，无合约用完即止
+- ✅ 群内签到送额外流量，长期用户越用越划算
+- ✅ 最高 99T 超大容量套餐
+- ✅ Max/Infinity 套餐物理隔离，更稳定
+
+**缺点**：
+- 普通套餐严格限制设备数 5 个
+- 电信线路晚高峰表现不佳
+
+**我的使用体验**：群内签到可送额外流量，长期用户越用越划算！
+
+**推荐套餐**：
+
+| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
+|---------|------|------|------|------|
+| Mini·迷你年付版 | ¥49.9/年 | 200GB/月 | 200Mbps | 入门首选 |
+| Air·轻量旗舰版 | ¥12.9/月 | 1000GB | 300Mbps |新增套餐，月付最佳入门 |
+| Pro·进阶专业版 | ¥25/月 | 2000GB | 500Mbps | 含专属节点，重度用户首选 |
+| Max·企业至尊版 | ¥39/月 | 6000GB | 1000Mbps | 含专属节点，团队/企业；物理隔离 |
+| Travel·差旅便携包 | ¥19.9/一次性 | 500GB | 200Mbps | 永久有效 |
+| Stack·囤货加油包 | ¥79/一次性 | 2000GB | 500Mbps | 永久有效 |
+| Giga·巨量买断包 | ¥328/一次性 | 99T | 800Mbps | 永久有效 |
+| Infinity·终极无限包 | ¥520/一次性 | 不限 | 不限 | 含专属节点 |
+
+[点击查看悦通测速](https://jichangtizi.com/zhulijichang/yuetong-review/)
+
+<p align="center">
+  <img src="images/yuetong.png" width="100%" alt="悦通">
+</p>
+
+---
+
 <span id="baokemeng"></span>
-### 4. 宝可梦加速器 - IEPL/IPLC + 新疆可用
+### 5. 宝可梦加速器 - IEPL/IPLC + 新疆可用
 
 **官网入口**：
 - [宝可梦加速器官网](https://go.clashshome.com/baokemeng)，[备用地址](https://love.p6m6.com/#/register?code=74mX69ks)
@@ -323,7 +383,7 @@
 ---
 
 <span id="wandayun"></span>
-### 5. 万达云 - 专线 + 家宽 + 稳定、抗封锁能力强
+### 6. 万达云 - 专线 + 家宽 + 稳定、抗封锁能力强
 
 **官网入口**：
 - [万达云官网](https://go.clashshome.com/wandayun)，[备用地址](https://link.wdyserver.com/register?code=kfKBXYDH)
@@ -369,66 +429,6 @@
 
 <p align="center">
   <img src="images/wandayun.png" width="100%" alt="万达云">
-</p>
-
----
-
-<span id="yuetong"></span>
-### 6. 悦通 - 多档位套餐 + 不限时大流量包 + 高性价比
-**官网入口**：
-- [悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://my.yue.to/#/register?code=Vp3Ug4tX)
-
-**优惠码**：`YUE520`
-
-> **注意**：晚高峰略卡，各地区和网络有所不一样，建议先弄一个月试试。或者十几块钱买个500G不限时作为备用，很划算。对稳定性有要求的建议买25/月及以上的套餐有专属节点。
-
-**机场档案**
-| 项目 | 详情 |
-|------|------|
-| 开业时间 | 2025年中 |
-| 老板肉身 | 境外 |
-| 入口与过境 | 国内、多个境外 |
-| 节点地区 | 台湾、日本、韩国、新加坡、美国、加拿大、英国、德国、越南等 40+ 国家及地区 |
-| 落地 ISP | Vietnam Posts（越南电信）、Chunghwa Telecom（台湾HiNet）、Leaseweb、Daou Tech（韩国）、Light Node 等多家 |
-| 节点数量 | 140+（可用率 62%） |
-| 协议 | VLESS + Hysteria2 |
-| 设备限制 | 5-20，Max/Infinity 套餐物理隔离 |
-| AI流媒体解锁 | 全解锁 |
-| 审计情况 | 无审计 |
-| 付款方式 | 支付宝 / 微信 |
-| TG 频道 | [点击加入](https://t.me/yue_to) |
-| 一键客户端 | Windows / macOS / Android / Linux |
-
-**核心优势**：
-- ✅ ¥12.9/月起，多档位套餐从轻量到企业级全覆盖
-- ✅ 不限时流量包，无合约用完即止
-- ✅ 群内签到送额外流量，长期用户越用越划算
-- ✅ 最高 99T 超大容量套餐
-- ✅ Max/Infinity 套餐物理隔离，更稳定
-
-**缺点**：
-- 普通套餐严格限制设备数 5 个
-- 电信线路晚高峰表现不佳
-
-**我的使用体验**：群内签到可送额外流量，长期用户越用越划算！
-
-**推荐套餐**：
-
-| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
-|---------|------|------|------|------|
-| Mini·迷你年付版 | ¥49.9/年 | 200GB/月 | 200Mbps | 入门首选 |
-| Air·轻量旗舰版 | ¥12.9/月 | 1000GB | 300Mbps |新增套餐，月付最佳入门 |
-| Pro·进阶专业版 | ¥25/月 | 2000GB | 500Mbps | 含专属节点，重度用户首选 |
-| Max·企业至尊版 | ¥39/月 | 6000GB | 1000Mbps | 含专属节点，团队/企业；物理隔离 |
-| Travel·差旅便携包 | ¥19.9/一次性 | 500GB | 200Mbps | 永久有效 |
-| Stack·囤货加油包 | ¥79/一次性 | 2000GB | 500Mbps | 永久有效 |
-| Giga·巨量买断包 | ¥328/一次性 | 99T | 800Mbps | 永久有效 |
-| Infinity·终极无限包 | ¥520/一次性 | 不限 | 不限 | 含专属节点 |
-
-[点击查看悦通测速](https://jichangtizi.com/zhulijichang/yuetong-review/)
-
-<p align="center">
-  <img src="images/yuetong.png" width="100%" alt="悦通">
 </p>
 
 ---
@@ -497,8 +497,71 @@
 
 ---
 
+<span id="naiyun"></span>
+### 2. 奈云 - 香港自有机房 + Trojan 全流媒体解锁 + 长期有效流量包
+
+**官网入口**：
+- [奈云官网](https://www.v2ny.com/)
+
+**优惠码**：无（官方已为特惠年付，Basic 套餐 ¥168/年 直接享）
+
+**机场档案**
+| 项目 | 详情 |
+|------|------|
+| 入口与过境 | 全部境外直连（无国内入口） |
+| 节点地区 | 香港、台湾、日本、韩国、新加坡、马来西亚、菲律宾、泰国、越南、印尼、土耳其、阿联酋、美国、英国、德国、法国、巴西等 17+ 国家及地区 |
+| 落地 ISP | Eons Data Communications Limited（香港自有机房） |
+| 节点数量 | 70 个（可用 65/70，93%） |
+| 协议 | TROJAN×65 / VMESS×5 |
+| 线路类型 | 直连（70 个） |
+| 平均延迟 | 55 ms（最低 51.1 ms，🇲🇾 马来西亚01） |
+| 设备限制 | 5-15 台（按套餐） |
+| 峰值速率 | 5000Mbps（不限速） |
+| AI流媒体解锁 | Netflix / Disney+ / ChatGPT 等主流全解锁 |
+| 审计情况 | 未说明 |
+| 付款方式 | 支付宝 / 微信 |
+| 一键客户端 | Windows / Mac / Android |
+
+**核心优势**：
+- ✅ 香港自有机房专柜，环球多地接入点，节点延迟稳定在 50-60ms 区间
+- ✅ 全部境外直连入口，绕开国内入口被通报的风险，敏感时期稳定性好
+- ✅ TROJAN 主力协议占比 93%，可用率高（65/70）
+- ✅ 不限速，峰值 5Gbps；全平台原生客户端
+- ✅ 提供「一次性流量包」（不限时），适合做长期备用底牌
+
+**缺点**：
+- 入口全部境外直连，电信用户在部分时段路由可能不如国内入口稳
+- VMESS 节点全部为说明性节点（官方信息），实际无可用业务节点
+- 价格在按量包档位偏高（如 280G ¥98）
+
+**使用心得**：奈云的定位是「香港自有机房 + 全境外直连」，适合作为主力机场之外的备用补充。70 个节点中 65 个 TROJAN 节点 100% 可用，香港、台湾、新加坡、日本延迟稳定在 50-55ms，刷 4K Netflix 完全无压力。比较适合预算有限又想要长期稳定底牌的用户，直接 ¥168/年 拿下 Basic 即可。
+
+**推荐套餐**：
+
+*周期套餐*
+
+| 套餐名称 | 价格 | 流量/月 | 设备 | 速率 |
+|---------|------|---------|------|------|
+| Basic（特惠） | ¥168/年 | 168G | 5 台 | 5Gbps |
+| Pro | ¥38/月、¥110/季、¥210/半年、¥380/年 | 388G | 10 台 | 5Gbps |
+| Max | ¥58/月、¥170/季、¥330/半年、¥580/年 | 788G | 15 台 | 5Gbps |
+
+*不限时流量包（一次性，多次购买不可叠加）*
+
+| 流量 | 价格 | 设备 |
+|------|------|------|
+| 280G | ¥98 | 5 台 |
+| 680G | ¥258 | 5 台 |
+| 2048G | ¥598 | 5 台 |
+
+<p align="center">
+  <img src="机场检测工具/奈云.png" width="100%" alt="奈云">
+</p>
+
+---
+
 <span id="ssrdog"></span>
-### 2. SSRDOG - IEPL/BGP 专线 + 全流媒体解锁
+### 3. SSRDOG - IEPL/BGP 专线 + 全流媒体解锁
 
 **官网入口**：
 - [SSRDOG 官网](https://go.clashshome.com/ssrdog)，[备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O)
@@ -553,7 +616,7 @@
 ---
 
 <span id="wuguijiasu"></span>
-### 3. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
+### 4. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
 
 **官网入口**：
 - [乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)
@@ -609,7 +672,7 @@
 ---
 
 <span id="feiniaoyun"></span>
-### 4. 飞鸟云 - 年付 12 元传家宝
+### 5. 飞鸟云 - 年付 12 元传家宝
 
 **官网入口**：
 - [飞鸟云官网](https://go.clashshome.com/feiniaoyun)，[备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP)
@@ -661,7 +724,7 @@
 ---
 
 <span id="m78"></span>
-### 5. M78星云 - 三网 BGP + 最高 2000Mbps（目前公开订阅只提供几个公共节点，其他都在官方客户端，封端了）
+### 6. M78星云 - 三网 BGP + 最高 2000Mbps（目前公开订阅只提供几个公共节点，其他都在官方客户端，封端了）
 
 **官网入口**：
 - [M78星云官网](https://go.clashshome.com/m78xingyun)，[备用地址](https://www.m78.at/#/register?code=jv0lwSHb)
@@ -718,7 +781,7 @@
 ---
 
 <span id="tangguo"></span>
-### 6. 糖果云 - 高端线路 + 100% 可用率 + 赠 EMBY
+### 7. 糖果云 - 高端线路 + 100% 可用率 + 赠 EMBY
 
 **官网入口**：
 - [糖果云官网](https://go.clashshome.com/tangguoyun)，[备用地址](https://candytally.monster/?code=KnAaIUBM)
@@ -773,7 +836,7 @@
 ---
 
 <span id="yuyun"></span>
-### 7. 渔云Cloudfisher - 三网优化 + EMBY
+### 8. 渔云Cloudfisher - 三网优化 + EMBY
 
 **官网入口**：
 - [渔云Cloudfisher官网](https://go.clashshome.com/yuyunjc)，[备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp)
@@ -816,75 +879,6 @@
 
 <p align="center">
   <img src="images/cloudfisher.png" width="100%" alt="渔云">
-</p>
-
----
-
-<span id="xsus"></span>
-### 8. XSUS - 移动骨干 + IEPL 企业专线
-
-**官网入口**：
-- [XSUS 官网](https://go.clashshome.com/xsusgw)，[备用地址](https://xs-us.xyz/register?code=G3gBe4Zs)
-
-**优惠码**：`OFF80`（年付 8 折）
-
-**机场档案**
-| 项目 | 详情 |
-|------|------|
-| 开业时间 | 2022 年 |
-| 入口与过境 | 全部国内入口（移动骨干 AS9808 为主 + 少量直连） |
-| 节点地区 | 台湾、日本、新加坡、美国、英国、德国、韩国等 20多个国家及地区 |
-| 落地 ISP | China Mobile communications corporation |
-| 节点数量 | 60+ |
-| 协议 | Trojan |
-| 设备限制 | 不限制 |
-| 峰值速率 | 500Mbps（P系列）/ 5Gbps 突发（P-Ultra）/ 500Mbps 保底（IEPL系列） |
-| AI流媒体解锁 | Netflix / Disney+ 全热门节点保证 |
-| 审计情况 | 无审计 |
-| 付款方式 | 支付宝 / 微信 |
-| TG 频道 | [点击加入](https://t.me/xsusvpn) |
-| 一键客户端 | Windows / macOS / Android / iOS |
-
-**核心优势**：
-- ✅ 68 节点 100% 全部可用，零超时
-- ✅ 自有机房专柜，环球多地接入
-- ✅ P-Ultra 套餐 5Gbps 突发带宽
-- ✅ IEPL 企业专线套餐可选（季付起）
-
-**缺点**：
-- 全移动骨干接入，电信/联通用户跨网延迟相对高（移动用户体验最佳）
-- 5Gbps 是突发而非持续带宽
-- IEPL 套餐起步较贵（季付 ¥48 起，仅 50G）
-
-**推荐套餐**：
-
-*P 系列（基础套餐）*
-
-| 套餐名称 | 价格 | 流量 | 速率 | 备注 |
-|---------|------|------|------|------|
-| P-Small | ¥10/月 | 168G | 500Mbps | 入门首选 |
-| P-Plus | ¥20/月 | 336G | 1Gbps | |
-| P-Max | ¥24/月 | 420G | 1Gbps | 最高性价比 |
-| P-Ultra | ¥58/月 | 1024G | 5Gbps 突发 | |
-
-*IEPL 企业专线系列*
-
-| 套餐名称 | 价格 | 流量/月 | 速率 | 备注 |
-|---------|------|---------|------|------|
-| IEPL-Small | ¥48 起/季 | 50G | 500Mbps 保底 | 物理直连 |
-| IEPL-PLUS | ¥78 起/季 | 100G | 500Mbps 保底 | 物理直连 |
-
-*不限时流量包*
-
-| 流量 | 价格 |
-|------|------|
-| 188G | ¥65 |
-| 240G | ¥82 |
-| 400G | ¥122 |
-| 1024G | ¥260 |
-
-<p align="center">
-  <img src="images/xsus.png" width="100%" alt="XSUS">
 </p>
 
 ---
@@ -938,6 +932,7 @@
 </p>
 
 ---
+
 <span id="unlimited"></span>
 ## 三、优惠码汇总
 
@@ -1035,13 +1030,15 @@ A: 按以下顺序排查：
 <span id="update"></span>
 
 ## 📌更新纪录
-- 2026-05-27：更新[快雷go](#kuaileigo)机场档案
-- 2026-05-27：更新[M78星云](#M78)节点信息
+- 2026-06-11：新增备用机场[奈云](#naiyun)，奈云所有架构节点后台重构升级完成
+- 2026-05-27：更新快雷go机场档案
+- 2026-05-27：更新M78星云节点信息
 - 2026-05-19：新增主力机场 [特朗普云 Trumpyun](#trumpyun)
 - 2026-05-13：更新 [红杏云](#hongxingyun) 、[悦通](#yuetong)节点信息，更新[宝可梦加速器](#baokemeng)价格信息
 - 2026-05-08：更新 [SSRDOG](#ssrdog) 节点信息
-- 2026-05-07：移除[奈云]，新增备用机场[糖果云](#tangguo)
+- 2026-05-07：新增备用机场[糖果云](#tangguo)
 - 2026-05-06：新增机场测速
+- 2026-05-04：根据最近的情况测试，提升[悦通](#yuetong)为主力机场
 - 2026-04-28：更新[悦通](#yuetong)优惠码、[M78星云](#M78)优惠码
 - 2026-04-25：更新[宝可梦加速](#baokemeng)节点信息图片
 - 2026-04-22：更新公告，[红杏云](#hongxingyun)客户端更新
