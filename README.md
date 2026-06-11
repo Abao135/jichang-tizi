@@ -72,14 +72,13 @@
   - [6. 万达云](#wandayun)
 - [二、备用机场（按需选择）](#backup)
   - [1. Mitce](#mitce)
-  - [2. 奈云](#naiyun)
-  - [3. SSRDOG](#ssrdog)
-  - [4. 乌龟加速](#wuguijiasu)
-  - [5. 飞鸟云](#feiniaoyun)
-  - [6. M78星云](#m78)
-  - [7. 糖果云](#tangguo)
-  - [8. 渔云Cloufisher](#yuyun)
-  - [9. 魔戒](#mojie)
+  - [2. SSRDOG](#ssrdog)
+  - [3. 乌龟加速](#wuguijiasu)
+  - [4. 飞鸟云](#feiniaoyun)
+  - [5. M78星云](#m78)
+  - [6. 糖果云](#tangguo)
+  - [7. 渔云Cloufisher](#yuyun)
+  - [8. 魔戒](#mojie)
 - [三、优惠码汇总](#unlimited)
 - [四、选择策略](#choose)
 - [FAQ 常见问题](#faq)
@@ -497,71 +496,8 @@
 
 ---
 
-<span id="naiyun"></span>
-### 2. 奈云 - 香港自有机房 + Trojan 全流媒体解锁 + 长期有效流量包
-
-**官网入口**：
-- [奈云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://www.nyaff.cc?path=register&code=1wIegJF2)
-
-**优惠码**：无（官方已为特惠年付，Basic 套餐 ¥168/年 直接享）
-
-**机场档案**
-| 项目 | 详情 |
-|------|------|
-| 入口与过境 | 全部境外直连（无国内入口） |
-| 节点地区 | 香港、台湾、日本、韩国、新加坡、马来西亚、菲律宾、泰国、越南、印尼、土耳其、阿联酋、美国、英国、德国、法国、巴西等 17+ 国家及地区 |
-| 落地 ISP | Eons Data Communications Limited（香港自有机房） |
-| 节点数量 | 70 个（可用 65/70，93%） |
-| 协议 | TROJAN×65 / VMESS×5 |
-| 线路类型 | 直连（70 个） |
-| 平均延迟 | 55 ms（最低 51.1 ms，🇲🇾 马来西亚01） |
-| 设备限制 | 5-15 台（按套餐） |
-| 峰值速率 | 5000Mbps（不限速） |
-| AI流媒体解锁 | Netflix / Disney+ / ChatGPT 等主流全解锁 |
-| 审计情况 | 未说明 |
-| 付款方式 | 支付宝 / 微信 |
-| 一键客户端 | Windows / Mac / Android |
-
-**核心优势**：
-- ✅ 香港自有机房专柜，环球多地接入点，节点延迟稳定在 50-60ms 区间
-- ✅ 全部境外直连入口，绕开国内入口被通报的风险，敏感时期稳定性好
-- ✅ TROJAN 主力协议占比 93%，可用率高（65/70）
-- ✅ 不限速，峰值 5Gbps；全平台原生客户端
-- ✅ 提供「一次性流量包」（不限时），适合做长期备用底牌
-
-**缺点**：
-- 入口全部境外直连，电信用户在部分时段路由可能不如国内入口稳
-- VMESS 节点全部为说明性节点（官方信息），实际无可用业务节点
-- 价格在按量包档位偏高（如 280G ¥98）
-
-**使用心得**：奈云的定位是「香港自有机房 + 全境外直连」，适合作为主力机场之外的备用补充。70 个节点中 65 个 TROJAN 节点 100% 可用，香港、台湾、新加坡、日本延迟稳定在 50-55ms，刷 4K Netflix 完全无压力。比较适合预算有限又想要长期稳定底牌的用户，直接 ¥168/年 拿下 Basic 即可。
-
-**推荐套餐**：
-
-*周期套餐*
-
-| 套餐名称 | 价格 | 流量/月 | 设备 | 速率 |
-|---------|------|---------|------|------|
-| Basic（特惠） | ¥168/年 | 168G | 5 台 | 5Gbps |
-| Pro | ¥38/月、¥110/季、¥210/半年、¥380/年 | 388G | 10 台 | 5Gbps |
-| Max | ¥58/月、¥170/季、¥330/半年、¥580/年 | 788G | 15 台 | 5Gbps |
-
-*不限时流量包（一次性，多次购买不可叠加）*
-
-| 流量 | 价格 | 设备 |
-|------|------|------|
-| 280G | ¥98 | 5 台 |
-| 680G | ¥258 | 5 台 |
-| 2048G | ¥598 | 5 台 |
-
-<p align="center">
-  <img src="机场检测工具/奈云.png" width="100%" alt="奈云">
-</p>
-
----
-
 <span id="ssrdog"></span>
-### 3. SSRDOG - IEPL/BGP 专线 + 全流媒体解锁
+### 2. SSRDOG - IEPL/BGP 专线 + 全流媒体解锁
 
 **官网入口**：
 - [SSRDOG 官网](https://go.clashshome.com/ssrdog)，[备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O)
@@ -616,7 +552,7 @@
 ---
 
 <span id="wuguijiasu"></span>
-### 4. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
+### 3. 乌龟加速 - IEPL 专线 + 超大不限时流量包 （近期暂时切直连线路）
 
 **官网入口**：
 - [乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)
@@ -672,7 +608,7 @@
 ---
 
 <span id="feiniaoyun"></span>
-### 5. 飞鸟云 - 年付 12 元传家宝
+### 4. 飞鸟云 - 年付 12 元传家宝
 
 **官网入口**：
 - [飞鸟云官网](https://go.clashshome.com/feiniaoyun)，[备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP)
@@ -724,7 +660,7 @@
 ---
 
 <span id="m78"></span>
-### 6. M78星云 - 三网 BGP + 最高 2000Mbps（目前公开订阅只提供几个公共节点，其他都在官方客户端，封端了）
+### 5. M78星云 - 三网 BGP + 最高 2000Mbps（目前公开订阅只提供几个公共节点，其他都在官方客户端，封端了）
 
 **官网入口**：
 - [M78星云官网](https://go.clashshome.com/m78xingyun)，[备用地址](https://www.m78.at/#/register?code=jv0lwSHb)
@@ -781,7 +717,7 @@
 ---
 
 <span id="tangguo"></span>
-### 7. 糖果云 - 高端线路 + 100% 可用率 + 赠 EMBY
+### 6. 糖果云 - 高端线路 + 100% 可用率 + 赠 EMBY
 
 **官网入口**：
 - [糖果云官网](https://go.clashshome.com/tangguoyun)，[备用地址](https://candytally.monster/?code=KnAaIUBM)
@@ -836,7 +772,7 @@
 ---
 
 <span id="yuyun"></span>
-### 8. 渔云Cloudfisher - 三网优化 + EMBY
+### 7. 渔云Cloudfisher - 三网优化 + EMBY
 
 **官网入口**：
 - [渔云Cloudfisher官网](https://go.clashshome.com/yuyunjc)，[备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp)
@@ -884,7 +820,7 @@
 ---
 
 <span id="mojie"></span>
-### 9. 魔戒 - 纯不限时流量包
+### 8. 魔戒 - 纯不限时流量包
 
 **官网入口**：
 - [魔戒官网](https://go.clashshome.com/mojieapp)，[备用地址](https://mojie.xn--yrs494l.com/register?aff=oPFxBtTW)
@@ -942,7 +878,6 @@
 | 乌龟加速 | `ABING888` | 全场 8 折 | 是 |
 | 宝可梦加速器 | `9999` | 新用户首单 9 折 | 是 |
 | M78 星云 | `season85`（季付 85 折）、 `halfyear82`（半年付 82 折）、 `year80`（年付 8 折） | 85-82 折 | 是 |
-| XSUS | `OFF80` | 年付 8 折 | 是 |
 | Mitce | `SAKURA2026` | 日本优化线路套餐锁定终身 8 折 | 是 |
 | 快雷GO | `kuailei888` | 9折 | 是 |
 | 悦通 | `YUE520` | 7折 | 2026.5.18-5.23 |
@@ -1030,7 +965,7 @@ A: 按以下顺序排查：
 <span id="update"></span>
 
 ## 📌更新纪录
-- 2026-06-11：新增备用机场[奈云](#naiyun)，奈云所有架构节点后台重构升级完成
+- 2026-06-11：删除XSUS
 - 2026-05-27：更新快雷go机场档案
 - 2026-05-27：更新M78星云节点信息
 - 2026-05-19：新增主力机场 [特朗普云 Trumpyun](#trumpyun)
