@@ -110,7 +110,7 @@
 | 节点地区 | 香港、台湾、日本、新加坡、美国、韩国、英国、德国等 |
 | 落地 ISP | Sakura Link Limited、Amazon.com（AWS） |
 | 节点数量 | 50+ |
-| 协议 | Vless + Hysteria2 |
+| 协议 | Vless + AnyTLS |
 | 设备限制 | 不限制（合理使用） |
 | AI流媒体解锁 | AI全解锁 · Netflix / Disney+ / YouTube Premium |
 | 审计情况 | 无审计 |
@@ -219,7 +219,7 @@
 | 节点地区 | 马来西亚、新加坡、日本、台湾、美国、香港等 |
 | 落地 ISP | MICROSOFT、GoMami Networks、Chunghwa Telecom Co., Ltd.、DMIT Cloud Services、GTT Communications Inc.、NetLab Global |
 | 节点数量 | 50+ |
-| 协议 | SS + VLESS |
+| 协议 | AnyTLS + VLESS |
 | 线路类型 | IEPL专线+ 直连 |
 | 设备限制 | 2 - 100 台（按套餐） |
 | AI流媒体解锁 | TikTok / 推特 / Ins / YouTube / Netflix / Disney+ / ChatGPT |
