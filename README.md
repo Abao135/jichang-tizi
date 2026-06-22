@@ -260,7 +260,7 @@
 [点击查看快雷GO测速](https://jichangtizi.com/rumen/kuaileigo-review/)
 
 <p align="center">
-  <img src="images/kuaileigo.png" width="100%" alt="快雷go">
+  <img src="images/kuaileigo1.png" width="100%" alt="快雷go">
 </p>
 
 ---
