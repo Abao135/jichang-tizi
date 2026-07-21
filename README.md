@@ -314,7 +314,7 @@
 
 > 所有套餐均支持月付 · 季付 · 半年 · 年付 · 2年付 · 3年付，长期付款更划算。
 
-[点击查看糖果云测速](https://jichangtizi.com/zhulijichang/tangguoyun-review/
+[点击查看糖果云测速](https://jichangtizi.com/zhulijichang/tangguoyun-review/)
 
 <p align="center">
   <img src="images/tangguoyun.png" width="100%" alt="糖果云">
