@@ -827,7 +827,7 @@
 | 入口与过境 | 全部境外直连 |
 | 节点地区 | 台湾、日本、韩国、新加坡、美国、加拿大、英国、德国、越南等 40+ 国家及地区 |
 | 落地 ISP | Open Data Network、Chunghwa Telecom Co., Ltd.、Kamatera, Inc.、Leaseweb Japan K.K、PCCW IMSBiz、Datacamp Limited、Melbikomas UAB、Leaseweb UK Limited |
-| 节点数量 | 70+（可用率 （47%）） |
+| 节点数量 | 70+（可用率 （90%）） |
 | 协议 | VLESS + Hysteria2 |
 | 设备限制 | 5-20 |
 | AI流媒体解锁 | 解锁 |
