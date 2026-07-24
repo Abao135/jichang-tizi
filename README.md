@@ -257,7 +257,7 @@
 | 300G | ¥139 | 1000Mbps | 10台 |
 | 1000G | ¥269 | 1000Mbps | 10台 |
 
-[点击查看快雷GO测速](https://jichangtizi.com/rumen/kuaileigo-review/)
+[点击查看快雷GO测速](https://jichangtizi.com/zhulijichang/kuaileigo-review/)
 
 <p align="center">
   <img src="images/kuaileigo1.png" width="100%" alt="快雷go">
